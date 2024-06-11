@@ -1,4 +1,5 @@
-![OIP](https://github.com/Harshareddy000/Weather-Data-Analysis/assets/95005580/afdeb2e7-5a1b-4b45-8f19-b2d50f2c7a51)
+![OIP](https://github.com/Harshareddy000/Weather-Data-Analysis/assets/95005580/afdeb2e7-5a1b-4b45-8f19-b2d50f2c7a51) ![OIP (1)](https://github.com/Harshareddy000/Weather-Data-Analysis/assets/95005580/f6bd3dc4-0812-40dd-b5d0-5d6e08af8deb)
+
 
 
 # Weather Data Analysis 
