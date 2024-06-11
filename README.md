@@ -1,5 +1,5 @@
-# Weather Data Analysis System
-A Weather Data Analysis System (WDAS) is a software solution designed to collect, analyze, and visualize weather data to understand weather patterns, predict future conditions, and support various applications such as agriculture, disaster management, and climate research.
+# Weather Data Analysis 
+A Weather Data Analysis designed to collect, analyze, and visualize weather data to understand weather patterns, predict future conditions, and support various applications such as agriculture, disaster management, and climate research.
 ## Objective:
 The objective of the Weather Data Analysis System is to develop a comprehensive platform for collecting, storing, analyzing, and visualizing weather data to support various applications, including weather forecasting, climate change research, decision support, public safety, and resource management. By leveraging advanced data analysis techniques and visualization tools, the system aims to provide valuable insights into weather patterns, trends, and anomalies, facilitating informed decision-making and proactive responses to weather-related challenges.
 ## Abstract:
